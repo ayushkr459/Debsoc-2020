@@ -13,6 +13,10 @@ It primarily focuses on promoting the student activities in the institute alongw
 
 It also has an organization here in github which hosts the collection of fundamental and important repositories for students to help them in building them their software developer journey.
 
+## License
+
+This project follows MIT [License](https://github.com/ayushkr459/Debsoc-2020/blob/master/LICENSE)
+
 ---
 
 [Visit Website](https://www.debsoc.in "Debating Society") |  [Github Organization Link](https://github.com/DebSoc "GitHub")
